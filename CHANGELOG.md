@@ -81,7 +81,6 @@
 
 ### Added components
 
-- MDAlert
 - MDAvatar
 - MDBadge
 - MDBox
